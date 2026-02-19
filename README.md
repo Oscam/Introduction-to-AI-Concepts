@@ -23,5 +23,4 @@ Each section is written by a different team member.
 <!-- [Oscar] will write this section -->
 
 ## NLP
-<!-- [Team Member 3 Name] will write this section --># Introduction-to-AI-Concepts
-each person covers a different concept (machine learning, neural networks, NLP, computer vision etc.
+<!-- [Team Member 3 Name] will write this section -->

@@ -3,7 +3,7 @@
 A collaborative guide by :
 - Oscar Muguna
 - Lucky
-- 
+- Shammah paul
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -23,4 +23,4 @@ Each section is written by a different team member.
 <!-- [Oscar] will write this section -->
 
 ## NLP
-<!-- [Team Member 3 Name] will write this section -->
+<!-- [Shammahpaul] will write this section -->

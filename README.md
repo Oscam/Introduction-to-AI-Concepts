@@ -21,6 +21,33 @@ Each section is written by a different team member.
 
 ## Neural Networks
 <!-- [Oscar] will write this section -->
+**Neural Networks** or *artificial neural networks* is a branch of Artificial Intelligence whereby computers process data by imitating how the huma brain works.
+Complex Neural networks can be termed as deep learning. 
+
+### Applications of Neural Networks
+- Used in **Computer Vision** for tasks such as: 
+  - Image classification
+  - facial recognition
+  - autonomous driving
+- Used in **Natural Language Processing** for various tasks like: 
+  - Machine translation
+  - chatbots
+  - text generation
+- Used in **Predictive Analytics** for tasks such as: 
+   - Financial modeling 
+   - fraud detection
+   - risk management
+
+### How it works
+1. Data enters the network.
+2. Each neuron calculates a weighted sum of inputs plus bias.
+3. The activation function decides the neuron's output.
+4. Outputs flow through the layers until the final prediction.
+5. During training, the network adjusts weights and biases using backpropagation and gradient descent to minimize error.
+
+### Useful Links
+- [What is neural networks](https://www.ibm.com/think/topics/neural-networks)
+- [Uses](https://en.wikipedia.org/wiki/Neural_network)
 
 ## NLP
 ### NLP (Natural Language Processing)

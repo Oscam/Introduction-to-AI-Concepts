@@ -17,11 +17,43 @@ This guide covers an Introduction to AI Concepts that every student should know 
 Each section is written by a different team member.
 
 ## Machine Learning
-<!-- [Lucky] will write this section -->
+<!-- [Lucky] wrote this section -->
+
+**Machine Learning (ML)** is a branch of Artificial Intelligence that enables computers to learn from data and improve their performance without being explicitly programmed.
+
+Instead of following fixed instructions, machine learning systems identify patterns in data and make predictions or decisions based on those patterns.
+
+### Types of Machine Learning
+
+1. **Supervised Learning** – The model is trained using labeled data.
+   - Example: Email spam detection where emails are labeled as "spam" or "not spam".
+   - Example: Predicting house prices based on past sales data.
+
+2. **Unsupervised Learning** – The model finds patterns in unlabeled data.
+   - Example: Customer segmentation in marketing.
+   - Example: Grouping similar news articles together.
+
+3. **Reinforcement Learning** – The model learns by interacting with an environment and receiving rewards or penalties.
+   - Example: Training a robot to walk.
+   - Example: AI learning to play games like chess.
+
+### Applications of Machine Learning
+- Fraud detection in banking
+- Recommendation systems (Netflix, YouTube)
+- Medical diagnosis
+- Predictive analytics
+- Self-driving cars
+
+### How Machine Learning Works
+1. Collect data
+2. Clean and prepare the data
+3. Train the model
+4. Test and evaluate performance
+5. Improve the model
 
 ## Neural Networks
 <!-- [Oscar] will write this section -->
-**Neural Networks** or *artificial neural networks* is a branch of Artificial Intelligence whereby computers process data by imitating how the huma brain works.
+**Neural Networks** or *artificial neural networks* is a branch of Artificial Intelligence whereby computers process data by imitating how the human brain works.
 Complex Neural networks can be termed as deep learning. 
 
 ### Applications of Neural Networks
@@ -52,7 +84,7 @@ Complex Neural networks can be termed as deep learning.
 ## NLP
 ### NLP (Natural Language Processing)
 
-#**Natural Language Processing (NLP)** is a branch of Artificial Intelligence that enables computers to understand, interpret, and generate human language. It combines concepts from linguistics, machine learning, and computer science to process text and speech data. NLP allows machines to communicate with humans in a more natural and meaningful way.
+**Natural Language Processing (NLP)** is a branch of Artificial Intelligence that enables computers to understand, interpret, and generate human language. It combines concepts from linguistics, machine learning, and computer science to process text and speech data. NLP allows machines to communicate with humans in a more natural and meaningful way.
 
 #### Why NLP is Important
 - It powers **chatbots and virtual assistants**.

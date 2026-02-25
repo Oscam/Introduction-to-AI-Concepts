@@ -48,6 +48,13 @@ NLP systems typically:
 - Use machine learning models to detect patterns
 - Generate predictions or meaningful responses
 
+#### What NLP Powers
+- Chatbots and virtual assistants
+- Sentiment analysis
+- Speech recognition
+- Voice-controlled systems
+- Improved search engines
+
 #### Useful Resources
 - [Stanford NLP Group](https://nlp.stanford.edu/)
 - [Natural Language Processing Overview (IBM)](https://www.ibm.com/topics/natural-language-processing)

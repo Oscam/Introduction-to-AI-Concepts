@@ -6,11 +6,12 @@ A collaborative guide by :
 - Shammah paul
 
 ## Table of Contents
-- [Introduction](#introduction)
-- [Machine Learning](#machinelearning)
-- [Neural Networks](#neuralnetworks)
-- [NLP](#nlp)
-- [Computer Vision](#computervision)
+
+* [Introduction](#introduction)
+* [Machine Learning](#machine-learning)
+* [Neural Networks](#neural-networks)
+* [NLP](#nlp)
+* [Computer Vision](#computer-vision)
 
 ## Introduction
 This guide covers an Introduction to AI Concepts that every student should know about.
